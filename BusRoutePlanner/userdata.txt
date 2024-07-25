@@ -1,0 +1,37 @@
+
+|Bus:R-3|location:Civic Center Stop|destination:Secretariat Chowrangi|fare:80.0
+|Bus:R-2|location:Younus Plaza|destination:Numaish|fare:70.0
+|Bus:EV-1|location:Nipa Chowrangi Bus Stop|destination:Dawood University|fare:130.0
+|Bus:EV-2|location:Urdu University Stop|destination:Jail Chowrangi Stop|fare:90.0
+|Bus:EV-2|location:Urdu University Stop|destination:Dawood University|fare:110.0
+|Bus:R-2|location:Urdu University Stop|destination:Dawood University|fare:110.0
+|Bus:EV-1|location:Urdu University Stop|destination:Numaish|fare:140.0
+|Bus:R-2|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:EV-4|location:Numaish|destination:Urdu University Stop|fare:140.0
+|Bus:R-2|location:Nipa Chowrangi Bus Stop|destination:Secretariat Chowrangi|fare:140.0
+|Bus:R-3|location:Younus Plaza|destination:Jail Chowrangi Stop|fare:20.0
+|Bus:EV-3|location:University Rd|destination:DMC East Official Karachi|fare:60.0
+|Bus:EV-3|location:University Rd|destination:DMC East Official Karachi|fare:60.0
+|Bus:R-3|location:Nipa Chowrangi Bus Stop|destination:DMC East Official Karachi|fare:70.0
+|Bus:R-4|location:Urdu University Stop|destination:Jail Chowrangi Stop|fare:90.0
+|Bus:EV-3|location:University Rd|destination:Urdu University Stop|fare:10.0
+|Bus:R-1|location:University Rd|destination:Urdu University Stop|fare:10.0
+|Bus:R-1|location:University Rd|destination:Younus Plaza|fare:90.0
+|Bus:R-1|location:DMC East Official Karachi|destination:Younus Plaza|fare:20.0
+
+|Bus:EV-4|location:DMC East Official Karachi|destination:Numaish|fare:90.0
+|Bus:R-4|location:Civic Center Stop|destination:DMC East Official Karachi|fare:10.0
+|Bus:R-3|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:EV-2|location:Urdu University Stop|destination:Dawood University|fare:110.0
+|Bus:EV-1|location:Urdu University Stop|destination:Secretariat Chowrangi|fare:120.0
+|Bus:R-1|location:Nipa Chowrangi Bus Stop|destination:DMC East Official Karachi|fare:70.0
+|Bus:R-3|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:R-3|location:Urdu University Stop|destination:Dawood University|fare:110.0
+|Bus:EV-2|location:Nipa Chowrangi Bus Stop|destination:Dawood University|fare:130.0
+|Bus:R-4|location:University Rd|destination:Jail Chowrangi Stop|fare:100.0
+|Bus:R-4|location:University Rd|destination:Jail Chowrangi Stop|fare:100.0
+|Bus:R-4|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:EV-2|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:EV-2|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:EV-2|location:Civic Center Stop|destination:Dawood University|fare:70.0
+|Bus:R-1|location:Nipa Chowrangi Bus Stop|destination:Civic Center Stop|fare:60.0
